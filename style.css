@@ -997,6 +997,7 @@ textarea:focus-visible {
 .brand-logo--full svg {
     width: 350px;
     height: auto;
+    margin-top: 20px;
 }
 
 .brand-logo--footer img,
