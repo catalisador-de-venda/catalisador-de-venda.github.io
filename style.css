@@ -224,7 +224,7 @@ textarea:focus-visible {
 }
 #navbar {
     transform: translateZ(0);
-    height: 82px;
+    height: 95px;
     display: flex;
     align-items: center;
 }
