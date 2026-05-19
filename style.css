@@ -1002,8 +1002,8 @@ textarea:focus-visible {
 
 .brand-logo--footer img,
 .brand-logo--footer svg {
-    height: 3.35rem;
-    max-width: min(22rem, 92vw);
+    width: 350px;
+    height: auto;
     object-fit: contain;
     display: block;
 }
